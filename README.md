@@ -92,3 +92,7 @@ This is some other documentations that explain everything in details:
  - [Deal with events](.doc/deal_with_events.md)
  - [Validate your minibus](.doc/validate_your_minibus.md)
  - [Configure your stations and terminus](.doc/configure_your_stations_and_terminus.md)
+
+## Symfony2 integration
+
+[MinibusBundle](https://github.com/Djeg/MinibusBundle)
